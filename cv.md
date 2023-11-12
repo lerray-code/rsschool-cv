@@ -40,3 +40,21 @@ function areYouPlayingBanjo(name) {
   return name;
 }
 ```
+
+## Experience
+
+I have litte experience in front-end development. I created a website for a small company.
+
+## Education
+
+Сollege of technology and design
+- software engineer
+
+BSUIR
+- information technology teacher
+
+## Languiges
+
+- Russian (native speaker)
+- English (B1)
+- Polish (A1)
