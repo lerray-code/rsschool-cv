@@ -1,1 +1,1 @@
-https://lerray-code.github.io/rsschool-cv/cv
+https://lerray-code.github.io/rsschool-cv/
