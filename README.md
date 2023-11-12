@@ -1,1 +1,1 @@
-# rsschool-cv
+https://lerray-code.github.io/rsschool-cv/
